@@ -1,77 +1,40 @@
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucasmendesmelo/Sistema-de-Biblioteca/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+O Biblioteca Plus é um sistema que permite a visualização, adição e exclusão de livros cadastrados. Com recursos de login e menu, o funcionário pode acessar o sistema e gerenciar os livros de forma fácil e eficiente.
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+O menu de perfil permite que o usuário verifique suas informações pessoais, enquanto o menu de livros permite que ele visualize os livros cadastrados, adicione novos livros e exclua livros existentes. Com um simples clique no botão de sair, o usuário pode encerrar o acesso ao sistema e voltar para a tela de login. 
+O Biblioteca Plus é uma solução prática e conveniente para gerenciamento de livros em uma biblioteca.
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/lucasmendesmelo/assets/blob/main/telalogin.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/lucasmendesmelo/assets/blob/main/telaPerfil.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Web 3](https://github.com/lucasmendesmelo/assets/blob/main/telaVerlivros.png)
+
+![Web 4](https://github.com/lucasmendesmelo/assets/blob/main/TelaAddLivro.png)
 
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
+- JavaFX
+- Jdbc/MySql
+- MVC
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+ScenerBuilder
 
 # Como executar o projeto
 
 ## Back end
 Pré-requisitos: Java 11
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
 # Autor
 
-Wellington Mazoni de Andrade
+Lucas Mendes
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/lucas-mendes-4b76291aa/
