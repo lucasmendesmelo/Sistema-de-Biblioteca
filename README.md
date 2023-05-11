@@ -28,11 +28,6 @@ O Biblioteca Plus é uma solução prática e conveniente para gerenciamento de 
 ## Front end
 ScenerBuilder
 
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
 # Autor
 
 Lucas Mendes
