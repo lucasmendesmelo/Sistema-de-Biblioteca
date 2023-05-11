@@ -10,7 +10,7 @@ O Biblioteca Plus é uma solução prática e conveniente para gerenciamento de 
 
 
 
-## Layout web
+## Layout
 ![Web 1](https://github.com/lucasmendesmelo/assets/blob/main/telalogin.png)
 
 ![Web 2](https://github.com/lucasmendesmelo/assets/blob/main/telaPerfil.png)
